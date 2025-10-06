@@ -1,0 +1,10 @@
+streamlit==1.31.0
+langchain==0.1.9
+langchain-google-genai==0.0.9
+langchain-community==0.0.24
+chromadb==0.4.22
+pypdf==4.0.1
+python-dotenv==1.0.1
+google-generativeai==0.3.2
+unstructured==0.12.4
+tiktoken==0.6.0
